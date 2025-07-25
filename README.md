@@ -16,6 +16,8 @@ Ideal para iniciantes que estão aprendendo estruturação e estilização de el
 - Design limpo e responsivo;
 - Utilização de boas práticas de marcação e CSS.
 
+  ![Lista de Compras](https://github.com/user-attachments/assets/622b2498-230a-4554-8c79-72b922bdec02)
+
 Exercicio -> Imagem com Link
 
 🔗 São dois links clicáveis, um com imagem vinda de uma **URL externa** e outra uma **imagem local** (armazenada no projeto), ambos os links abrem o destino em uma nova aba do navegador.
@@ -26,6 +28,8 @@ Além disso, busca reforçar o uso correto das tags <a> e <img> com HTML5, e apl
 - Uma link abre o site do google;
 - O outro abre um vídeo de gatinhos fofinhos no youtube.
 
+![Imagem do Link](https://github.com/user-attachments/assets/4a79966d-6ff0-4d26-adf8-c3b31ce0d10e)
+
 Exercicio -> Parágrafos Coloridos:
 
 📔 Este projeto demonstra como aplicar **cores de fundo diferentes** em dois parágrafos utilizando apenas HTML5 e CSS3. A ideia é destacar visualmente um dos parágrafos para mostrar como o CSS pode ser usado para criar hierarquia e contraste em conteúdos simples.
@@ -35,6 +39,6 @@ Exercicio -> Parágrafos Coloridos:
 - Dois parágrafos com texto sobre gatinhos 🐈;
 - Cada parágrafo com uma cor de fundo distinta.
 
-![Exercicios](https://github.com/user-attachments/assets/61e73c64-73d2-4bcb-b70e-bcb8adde5e61)
-
+![Parágrafos Coloridos](https://github.com/user-attachments/assets/28c4207b-853f-49f9-884f-8453b5326973)
+  
 Feito com 💜 por AnaCCapel
