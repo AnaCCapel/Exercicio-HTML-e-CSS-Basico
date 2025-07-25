@@ -16,7 +16,7 @@ Ideal para iniciantes que estão aprendendo estruturação e estilização de el
 - Design limpo e responsivo;
 - Utilização de boas práticas de marcação e CSS.
 
-  ![Lista de Compras](https://github.com/user-attachments/assets/622b2498-230a-4554-8c79-72b922bdec02)
+ ![Lista de Compras](https://github.com/user-attachments/assets/0a15f718-f451-4edb-be47-dfbf29e93914)
 
 Exercicio -> Imagem com Link
 
