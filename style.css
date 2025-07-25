@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #27005D;
+}
+
+/* Exercicio Lista de Compras */
+
+h1 {
+    margin: 22px 0 0 48px;
+}
+
+.total {
+    margin-top: 13px;
+}
+
+strong {
+    color: #9400FF;
+}
+
+.lista {
+    background-color: #E4F1FF;
+    border: 4px solid #27005D;
+    border-radius: 13px;
+    font-size: 22px;
+    width: 50%;
+    padding: 28px;
+    margin: 22px 38px;
+}
+
+/* Imagem do Link */
+
+a{
+    text-decoration: none;
+}
+
+img {
+    border-radius: 22px;
+    margin: 13px 0 0 22px;
+}
+
+.gato {
+    border: 8px solid #FF0039;
+    width: 300px;
+}
+
+/* Parágrafos Coloridos */
+
+.descricao {
+    background-color: #F5F5F5;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 13px;
+}
+
+.destacado {
+    background-color: #F0CCE2;
+}
