@@ -23,7 +23,7 @@ Exercicio -> Imagem com Link
 🔗 São dois links clicáveis, um com imagem vinda de uma **URL externa** e outra uma **imagem local** (armazenada no projeto), ambos os links abrem o destino em uma nova aba do navegador.
 
 🎯 Objetivo: Demonstrar como utilizar links externos com imagens (tanto de fonte externa quanto local), garantindo que sejam abertos em nova guia de forma segura e acessível.
-Além disso, busca reforçar o uso correto das tags <a> e <img> com HTML5, e aplicar uma estilização com CSS3.
+Além disso, busca reforçar o uso correto das tags a e img com HTML5 e aplicar estilização com CSS3.
 
 - Uma link abre o site do google;
 - O outro abre um vídeo de gatinhos fofinhos no youtube.
