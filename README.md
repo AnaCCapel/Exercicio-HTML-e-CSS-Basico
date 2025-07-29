@@ -41,4 +41,4 @@ Exercicio -> Parágrafos Coloridos:
 
 ![Parágrafos Coloridos](https://github.com/user-attachments/assets/28c4207b-853f-49f9-884f-8453b5326973)
   
-Feito com 💜 por AnaCCapel
+<p align="center">Feito com 💜 por Ana C. Capel</p>
