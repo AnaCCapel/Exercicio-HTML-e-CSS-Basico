@@ -25,7 +25,7 @@ Exercicio -> Imagem com Link
 🎯 Objetivo: Demonstrar como utilizar links externos com imagens (tanto de fonte externa quanto local), garantindo que sejam abertos em nova guia de forma segura e acessível.
 Além disso, busca reforçar o uso correto das tags a e img com HTML5 e aplicar estilização com CSS3.
 
-- Uma link abre o site do google;
+- Um link abre o site do google;
 - O outro abre um vídeo de gatinhos fofinhos no youtube.
 
 ![Imagem do Link](https://github.com/user-attachments/assets/4a79966d-6ff0-4d26-adf8-c3b31ce0d10e)
